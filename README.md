@@ -19,3 +19,9 @@ Steps to run the website:
 3. Establish the database connection with the server
 4. Run npm start to run the web application
 5. Run node test.js to run the script
+
+
+![image](https://github.com/neeharika-anand/Library-Search---Selenium-Testing-with-Javascript/assets/131549925/1be9b459-1349-4cff-93ee-11bc8230beb8)
+![image](https://github.com/neeharika-anand/Library-Search---Selenium-Testing-with-Javascript/assets/131549925/37ace3b1-eb63-4a8d-9dcd-3c69618f0e09)
+
+
