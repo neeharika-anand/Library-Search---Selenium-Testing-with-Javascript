@@ -1,0 +1,13 @@
+
+/* src/main/resources/static/css/styles.css */
+
+body {
+  font-family: 'Arial', sans-serif;
+  margin: 0;
+  padding: 0;
+  /*background-image: url('background.jpeg');  Replace 'background.jpg' with your image file */
+  background-size: cover;
+  background-position: center;
+  color: #fff; /* Set text color to white for better visibility on a background image */
+}
+
