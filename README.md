@@ -1,8 +1,8 @@
 # Library-Search Selenium-Testing-with-Javascript
 
 Includes:
-1. A MERN Stack Web Application to search for books as well as profile information
-2. An automated testing script using Selenium to test the following functionalities of the website:
+A MERN Stack Web Application to search for books as well as profile information
+An automated testing script using Selenium to test the following functionalities of the website:
 
 1. Check if  the search function allows searching of books as per title
 2. Check if  the search function allows searching of books as per author
